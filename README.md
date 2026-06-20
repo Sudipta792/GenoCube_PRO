@@ -601,8 +601,7 @@ This creates fully synchronized robotic behavior.
 * Chassis
 
 ## 🔌 Circuit Diagram
-
-![Circuit Diagram](circuit.png)
+![Circuit Diagram](circuit_image.png)
 
 ---
 

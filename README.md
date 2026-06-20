@@ -600,6 +600,10 @@ This creates fully synchronized robotic behavior.
 * Battery Pack
 * Chassis
 
+## 🔌 Circuit Diagram
+
+![Circuit Diagram](circuit.png)
+
 ---
 
 # 💻 Software Stack
